@@ -9,7 +9,7 @@ permalink: /
 # Welcome to Ace Shield User Guide
 {: .fs-9 }
 
-Explore Ace Shield Features {: .fs-6 .fw-300 }
+Explore Ace Shield Features
 
 **Overview**
 
