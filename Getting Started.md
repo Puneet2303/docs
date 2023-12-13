@@ -3,7 +3,6 @@ layout: default
 title: Getting Started
 nav_order: 2
 description: "Ace Shield Documentation"
-permalink: /
 ---
 
 ** Accessing Ace Shield**
