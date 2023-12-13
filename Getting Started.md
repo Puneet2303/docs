@@ -6,14 +6,9 @@ description: "Ace Shield Documentation"
 permalink: /
 ---
 
-# Welcome to Ace Shield User Guide
-{: .fs-9 }
+** Accessing Ace Shield**
 
-Explore Ace Shield Features
-
-**Overview**
-
-Ace Shield is a comprehensive security information and event management (SIEM) solution that helps organizations detect and respond to potential security incidents. It provides real-time monitoring, log management, incident management, and compliance management capabilities.
+Access Ace Shield using a compatible web browser. Click Ace Shield to reach the login page. Provide your credentials to log in to the system.
 
 **Purpose of the User Guide**
 
