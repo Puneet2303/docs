@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: Home
 nav_order: 3
 ---
 **Home Overview**
