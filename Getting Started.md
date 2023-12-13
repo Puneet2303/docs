@@ -3,7 +3,6 @@ layout: default
 title: Getting Started
 nav_order: 2
 ---
-
 **Accessing Ace Shield** 
 
 Access Ace Shield using a compatible web browser. Click Ace Shield to reach the login page. Provide your credentials to log in to the system. 
