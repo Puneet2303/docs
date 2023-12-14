@@ -25,6 +25,7 @@ To create a new real-time alert:
 -Click on the "Add Alert" button. 
 
 -Provide the required details for the alert:
+
 | Field                | Description                                                                                                 |
 |----------------------|-------------------------------------------------------------------------------------------------------------|
 | Alert Name           | Enter a descriptive name for the alert.                                                                     |
