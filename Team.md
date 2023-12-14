@@ -23,6 +23,7 @@ To add a new team member:
 -Click on the "Add Member" button. 
 
 -Provide the required details for the team member:
+
 | Field      | Description                                                                                                                  |
 |------------|------------------------------------------------------------------------------------------------------------------------------|
 | First Name | Enter the first name of the team member.                                                                                     |
