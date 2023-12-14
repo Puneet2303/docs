@@ -5,6 +5,7 @@ nav_order: 11
 ---
 
 The Device Groups section in Ace Shield allows you to manage and organize your devices into logical groups for easier management and configuration. It provides an overview of all the groups you have created. The Device Groups section displays the following columns:
+
 | Field         | Description                                                                                                                                                                  |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Name          | Name of the group that you have assigned.                                                                                                                                     |
