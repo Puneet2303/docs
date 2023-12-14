@@ -20,6 +20,7 @@ The Devices section in Ace Shield provides an overview of all the devices you ha
 **Device Actions**
 
 Clicking on the kebab menu of a particular device provides several options to manage and interact with the device:
+
 | Field          | Description                                                                                       |
 |----------------|---------------------------------------------------------------------------------------------------|
 | Device Key     | Displays the device key, which is required for device authentication and communication with Ace Shield. |
