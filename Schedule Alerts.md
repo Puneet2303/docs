@@ -20,6 +20,7 @@ To create a new scheduled alert:
 
 -Provide the required details for the alert:
 
+
 | Field                | Description                                                                                       |
 |----------------------|---------------------------------------------------------------------------------------------------|
 | Alert Name           | Enter a descriptive name for the alert.                                                           |
