@@ -18,7 +18,8 @@ To create a new active response:
 
 -Click on the "Add Active Response" button. 
 
--Provide the required details for the active response: 
+-Provide the required details for the active response:
+
 | Field          | Description                                                                                                 |
 |----------------|-------------------------------------------------------------------------------------------------------------|
 | Name           | Enter a descriptive name for the active response.                                                           |
