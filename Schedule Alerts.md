@@ -18,8 +18,7 @@ To create a new scheduled alert:
 
 -Click on the "Add Alert" button. 
 
--Provide the required details for the alert:
-
+-Provide the required details for the alert: 
 
 | Field                | Description                                                                                       |
 |----------------------|---------------------------------------------------------------------------------------------------|
@@ -29,6 +28,7 @@ To create a new scheduled alert:
 | Value                | Enter the value against which the field will be compared.                                         |
 | Add Filter (Optional) | Click on the "Add Filter" button to add additional filters for the alert.                        |
 | Destination          | Provide the email addresses where you want to send the alerts.                                    |
+
 -Click on the Submit button to create the alert. 
 
 
