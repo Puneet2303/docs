@@ -8,7 +8,6 @@ permalink: /
 
 # Welcome to Ace Shield User Guide
 
-Explore Ace Shield Features
 
 **Overview**
 
